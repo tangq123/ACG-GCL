@@ -1,2 +1,2 @@
 # ACG-GCL
-This version is old and the new one will be uploaded soon.
+This version is old. A new version in which we corrected the loss of the maximum step and achieved sub-graph training, will be uploaded soon.
